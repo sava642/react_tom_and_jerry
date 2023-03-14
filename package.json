@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "react-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/react-homework-template/",
+  "homepage": "https://sava642.github.io/react_tom_and_jerry/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
